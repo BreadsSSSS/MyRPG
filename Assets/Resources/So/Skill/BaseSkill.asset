@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f265fc7c062e044d88c8329992dda2b, type: 3}
+  m_Name: BaseSkill
+  m_EditorClassIdentifier: 
+  SkillSprite: {fileID: 21300000, guid: 59315e1896c4f8e4f878061bc3a09275, type: 3}
+  PointUse: 0
+  SkillDes: "\u5BF9\u654C\u4EBA\u9020\u6210\u4E00\u6B21\u653B\u51FB\u529B*1.2\u7684\u653B\u51FB\u529B"
+  SkillName: "\u8DF3\u65A9"
+  MagicUse: 4
+  SkillID: 0
+  PreSkills: {fileID: 0}
+  isLocked: 1
+  isMagic: 0
+  isALL: 0
+  Special: {fileID: 0}
+  Attack: 1.2
